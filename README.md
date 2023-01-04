@@ -1,1 +1,0 @@
-# non-functional-macOS-scientific-calculator
